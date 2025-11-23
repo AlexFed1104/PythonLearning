@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="09fc2ea1-f90f-41db-9293-6772863ca13f" name="Changes" comment="G">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Тема 4/H.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Тема 4/I.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Тема 4/J.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Тема 4/K.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Тема 4/L.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,19 +23,6 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <excluded-from-favorite>
-      <branch-storage>
-        <map>
-          <entry type="LOCAL">
-            <value>
-              <list>
-                <branch-info repo="$PROJECT_DIR$" source="master" />
-              </list>
-            </value>
-          </entry>
-        </map>
-      </branch-storage>
-    </excluded-from-favorite>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
@@ -60,6 +47,8 @@
     "Python.G.executor": "Debug",
     "Python.H.executor": "Run",
     "Python.I.executor": "Run",
+    "Python.J.executor": "Run",
+    "Python.K.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -117,7 +106,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763893780846</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="G">
+      <option name="closed" value="true" />
+      <created>1763896236142</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1763896236142</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

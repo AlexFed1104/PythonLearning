@@ -7,4 +7,3 @@ for i in range(1,7):
 		for n in range(1,13):
 			if i * 6 + k * 4 + n * 3 == 36 and i + k + n == 10:
 				print(i, "домиков", k, "квадратиков", n, "треугольников")
-

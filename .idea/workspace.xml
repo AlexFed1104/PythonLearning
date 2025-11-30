@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="09fc2ea1-f90f-41db-9293-6772863ca13f" name="Changes" comment="+3">
-      <change afterPath="$PROJECT_DIR$/Тема 4/M.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Тема 4/N.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Тема 4/O.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Тема 4/G.py" beforeDir="false" afterPath="$PROJECT_DIR$/Тема 4/G.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Тема 4/H.py" beforeDir="false" afterPath="$PROJECT_DIR$/Тема 4/H.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Тема 4/I.py" beforeDir="false" afterPath="$PROJECT_DIR$/Тема 4/I.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Тема 4/J.py" beforeDir="false" afterPath="$PROJECT_DIR$/Тема 4/J.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Тема 4/K.py" beforeDir="false" afterPath="$PROJECT_DIR$/Тема 4/K.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Тема 4/L.py" beforeDir="false" afterPath="$PROJECT_DIR$/Тема 4/L.py" afterDir="false" />
-    </list>
+    <list default="true" id="09fc2ea1-f90f-41db-9293-6772863ca13f" name="Changes" comment="Updste Readme" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,6 +20,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "AlexFed1104"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/AlexFed1104/PythonLearning.git",
+    "accountId": "ba7fdce0-a81c-4e4c-89ca-be0074829c49"
+  }
+}]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Тема 4/H.py" root0="SKIP_INSPECTION" />
   </component>
@@ -40,11 +41,11 @@
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="35sGwflY2MRq50RKza2mSxWXjbi" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+  <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -64,25 +65,26 @@
     "Python.O.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "B:/Programs/PyCharm/Projects/СУНЦ/Тема 4",
+    "last_opened_file_path": "/home/course2025_17/PycharmProjects/PythonLearning",
     "settings.editor.selected.configurable": "editing.templates"
   },
   "keyToStringList": {
-    "ChangesTree.GroupingKeys": [
-    ]
+    "ChangesTree.GroupingKeys": []
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="B:\Programs\PyCharm\Projects\СУНЦ\Тема 4" />
     </key>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-d68999036c7f-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.14475.56" />
+        <option value="bundled-python-sdk-53e2683a6804-9cdd278e9d02-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.26094.141" />
       </set>
     </attachedChunks>
   </component>
@@ -135,7 +137,23 @@
       <option name="project" value="LOCAL" />
       <updated>1763898349280</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Из сунца">
+      <option name="closed" value="true" />
+      <created>1764479461944</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1764479461944</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Updste Readme">
+      <option name="closed" value="true" />
+      <created>1764480035495</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1764480035495</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -159,6 +177,8 @@
     <MESSAGE value="g" />
     <MESSAGE value="G" />
     <MESSAGE value="+3" />
-    <option name="LAST_COMMIT_MESSAGE" value="+3" />
+    <MESSAGE value="Из сунца" />
+    <MESSAGE value="Updste Readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updste Readme" />
   </component>
 </project>

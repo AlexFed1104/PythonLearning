@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="09fc2ea1-f90f-41db-9293-6772863ca13f" name="Changes" comment="Updste Readme" />
+    <list default="true" id="09fc2ea1-f90f-41db-9293-6772863ca13f" name="Changes" comment="2 задачи с доски" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,6 +63,8 @@
     "Python.M.executor": "Run",
     "Python.N.executor": "Run",
     "Python.O.executor": "Run",
+    "Python.КТО+КОТ=ТОК.executor": "Run",
+    "Python.Таблица умножения.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -153,7 +155,23 @@
       <option name="project" value="LOCAL" />
       <updated>1764480035495</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Update workspace.xml ?????">
+      <option name="closed" value="true" />
+      <created>1764480070722</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1764480070722</updated>
+    </task>
+    <task id="LOCAL-00009" summary="2 задачи с доски">
+      <option name="closed" value="true" />
+      <created>1764481191859</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1764481191859</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -179,6 +197,8 @@
     <MESSAGE value="+3" />
     <MESSAGE value="Из сунца" />
     <MESSAGE value="Updste Readme" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updste Readme" />
+    <MESSAGE value="Update workspace.xml ?????" />
+    <MESSAGE value="2 задачи с доски" />
+    <option name="LAST_COMMIT_MESSAGE" value="2 задачи с доски" />
   </component>
 </project>

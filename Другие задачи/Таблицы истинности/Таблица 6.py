@@ -2,5 +2,5 @@ print("x y z f")
 for x in 0, 1:
 	for y in 0, 1:
 		for z in 0, 1:
-			f = (y <= (z and x)) and (x == y)
+			f =
 			print(x, y, z, int(f))
